@@ -31,3 +31,4 @@ const dobavSchetchik()
 }
 
 export default App;
+g
