@@ -10,9 +10,8 @@ function Counters() {
 
     return (
         <div>
-            {counters.map((element) => element)}
+            {counters}
             <button onClick={plusCounter}> Add counter</button>
-
         </div>
     );
 }
